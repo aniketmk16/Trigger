@@ -1,4 +1,4 @@
-# Project Name: Trigger
+# Project Name: Trigger V0.5
 ## Tagline: Because every women' security matters
 
 ## Description:
